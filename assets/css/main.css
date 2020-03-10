@@ -1966,7 +1966,7 @@
 			input[type="button"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #1C1C1C;
+				background: rgba(255, 255, 255, 0.75);
 			}
 
 			input[type="submit"].alt:active,
