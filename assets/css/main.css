@@ -3137,7 +3137,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #e5474b;
+			color: #ffffff;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: bold;
@@ -3145,7 +3145,7 @@
 		}
 
 			#header .logo:hover {
-				color: rgba(229, 71, 75, 0.75);
+				color: #ffffff;
 			}
 
 		#header a {
